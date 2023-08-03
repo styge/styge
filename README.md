@@ -1,7 +1,7 @@
 # Привет, меня зовут Илья 👋
 
 <p align="center">
-<a href="https://ibb.co/XbhVGsg"><img src="https://i.ibb.co/56N2J8y/neural.jpg" alt="neural" border="0" /></a>
+<a href="https://ibb.co/XbhVGsg"><img src="https://i.ibb.co/BNC0RTT/Dfgdvbdsuulncgnrd.png" alt="neural" border="0" /></a>
 </p>
 
 ---
