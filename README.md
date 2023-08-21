@@ -1,7 +1,7 @@
 # Привет, меня зовут Илья 👋
 
 <p align="center">
-<a href="https://ibb.co/JQsDPrr"><img src="https://i.ibb.co/TLg95PP/Dfgdvbdsuulncgnrd.png" alt="Dfgdvbdsuulncgnrd" border="0"></a>
+<a href="https://ibb.co/JQsDPrr"><img src="https://i.ibb.co/BNC0RTT/Dfgdvbdsuulncgnrd.png" alt="Dfgdvbdsuulncgnrd" border="0"></a>
 </p>
 
 ## Есть опыт работы с такими инструментами:
