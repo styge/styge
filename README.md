@@ -1,4 +1,4 @@
-# Привет, меня зовут Илья 👋
+# Привет, я Илья 👋
 
 <p align="center">
 <a href="https://ibb.co/kMZTgQg"><img src="https://i.ibb.co/R78Kpzp/nature.jpg" alt="nature" border="0"></a>
