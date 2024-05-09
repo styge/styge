@@ -1,14 +1,18 @@
-<div align="center">
-<h1>Всем привет 👋</h1>
-</div>
-
 <p align="center">
 <a href="https://ibb.co/kMZTgQg"><img src="https://i.ibb.co/fxn5PL7/vfhvyvjyj.jpg" alt="nature" border="0"></a>
 </p>
 
-## Инструменты:
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=styge&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p>
+<div align="center">
+<h1>Всем привет 👋</h1>
+</div>
+
+
+## Стэк:
+
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </a>
@@ -36,7 +40,7 @@
   <a href="https://keras.io/">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   </a>
-</p>
+
 
 ## Проекты:
 
