@@ -11,7 +11,7 @@
 </div>
 
 
-## Стэк:
+## Навыки:
 
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -46,6 +46,10 @@
 
 | Название проекта | Описание | Используемые инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [имя](ссылка) | описан | ![](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=Scrapy) | 
+
+
+
 | [Предсказание стоимости автомобилей по VIN-коду](https://github.com/styge/Data_science_projects/tree/main/vin_code_parsing) | Нужно построить систему прогнозирования стоимости автомобилей по VIN-коду. В распоряжении данные, выгруженные в формате текстового массива, текстового набора информации. Нужно спарсить данные, создать датасет, затем применить методы машинного обучения. | ![](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=Pandas) ![](https://img.shields.io/badge/-Numpy-000000?style=for-the-badge) ![](https://img.shields.io/badge/-seaborn-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Scikit--learn-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Catboost-000000?style=for-the-badge) | 
 | [Ранжирование комментариев VK](https://github.com/styge/Data_science_projects/tree/main/VK_Changellenge_Cup_IT_2023) | Команда VK разрабатывает методы сортировки комментариев под постами. Нужно создать механизм присвоения ранга и сортировки комментариев по значению ранга (score), которое будет предсказано с помощью моделей машинного обучения. | ![](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=Pandas) ![](https://img.shields.io/badge/-Numpy-000000?style=for-the-badge) ![](https://img.shields.io/badge/-tf--idf-000000?style=for-the-badge) ![](https://img.shields.io/badge/-nltk-000000?style=for-the-badge) ![](https://img.shields.io/badge/-seaborn-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Scikit--learn-000000?style=for-the-badge) | 
 | [Прогнозирование оттока клиентов оператора связи](https://github.com/styge/Data_science_projects/tree/main/provider_churn_forecasting) | Оператору связи нужно прогнозировать отток клиентов. Если в результате прогноза выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора предоставляет данные о некоторых клиентах, информацию об их тарифах и договорах. | ![](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=Pandas) ![](https://img.shields.io/badge/-Numpy-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Scikit--learn-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Catboost-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Phik-000000?style=for-the-badge) ![](https://img.shields.io/badge/-Shap-000000?style=for-the-badge) |
